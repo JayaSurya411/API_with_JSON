@@ -39,6 +39,9 @@ public class TestScript {
 			System.out.println(jsonObject3.get("type"));
 		}
 		
+		System.out.println("Test Script is Done");
+		
 	}
+	
 
 }
