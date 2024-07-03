@@ -40,6 +40,11 @@ public class TestScript {
 		}
 		
 		System.out.println("Test Script");
+		
+		System.out.println("Test Script is Done");
+		
+		
 	}
+	
 
 }
